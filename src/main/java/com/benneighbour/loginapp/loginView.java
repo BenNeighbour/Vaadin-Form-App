@@ -17,7 +17,7 @@ import com.vaadin.flow.theme.lumo.Lumo;
 
 
 // Target URL extension
-@Route("")
+@Route("/hello/world/")
 
 // The theme for the application is set to the lumo dark theme
 @Theme(value = Lumo.class, variant = Lumo.LIGHT)
